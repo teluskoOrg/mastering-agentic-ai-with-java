@@ -30,7 +30,7 @@
 
 <p align="center">
   <i>The official source-code repository for the <b>“Mastering Agentic AI with Java”</b> course.</i><br/>
-  <i>Every concept is tied directly to working, deployable Java code — not theory for its own sake.</i>
+  <i>Every concept is tied directly to working, deployable Java code, not theory for its own sake.</i>
 </p>
 
 ---
@@ -52,7 +52,7 @@
 
 ## 🎯 Course Philosophy
 
-This course is built for **Java developers** who want to go beyond basic LLM integration and actually build **intelligent, autonomous AI systems**. You will learn how to design and ship agentic applications using **Spring AI**, **LangChain4j**, the **Model Context Protocol (MCP)**, and **Google's Agent Development Kit (ADK)** — the same tools being adopted across the industry right now.
+This course is built for **Java developers** who want to go beyond basic LLM integration and actually build **intelligent, autonomous AI systems**. You will learn how to design and ship agentic applications using **Spring AI**, **LangChain4j**, the **Model Context Protocol (MCP)**, and **Google's Agent Development Kit (ADK)**, the same tools being adopted across the industry right now.
 
 > The focus here is not theory for its own sake. Every concept is tied directly to working Java code you can deploy in real projects. From understanding how LLMs *think* to building multi-agent systems that *act, reason, and remember*, this course takes you through the full journey.
 
@@ -63,7 +63,7 @@ This course is built for **Java developers** who want to go beyond basic LLM int
 | 🔑 Detail | 📋 Info |
 |-----------|---------|
 | **📅 Start Date** | 14th June, 2026 |
-| **🧑‍🏫 Batch Type** | Weekend Batch — Saturday & Sunday |
+| **🧑‍🏫 Batch Type** | Weekend Batch: Saturday & Sunday |
 | **⏰ Timings** | 9:00 AM – 12:00 PM IST |
 | **⌛ Duration** | 4 Months |
 | **📚 Prerequisites** | Java & Spring Boot knowledge required |
@@ -80,7 +80,7 @@ This course is built for **Java developers** who want to go beyond basic LLM int
 
 **🔬 Foundations**
 - How **LLMs, transformers & embeddings** actually work under the hood
-- **Prompt Engineering** — few-shot, Chain-of-Thought & the ReAct pattern
+- **Prompt Engineering**: few-shot, Chain-of-Thought & the ReAct pattern
 
 **🍃 Spring AI 2.0 (Setup → Production)**
 - Memory, Advisors, Tool Calling & RAG
@@ -161,7 +161,7 @@ This course is built for **Java developers** who want to go beyond basic LLM int
 <tr><td>
 
 ### ▶️ Certificate & Community
-- 🎓 **Certificate of Completion** — shareable on LinkedIn & your resume
+- 🎓 **Certificate of Completion**: shareable on LinkedIn & your resume
 - 👥 Active **peer-learning community** with recorded session access
 
 </td></tr>
@@ -180,14 +180,14 @@ This course is built for **Java developers** who want to go beyond basic LLM int
 <tr>
 <td valign="top" width="33%">
 
-Built with **Google ADK** — a multi-agent system that plans trips end to end.
+Built with **Google ADK**, a multi-agent system that plans trips end to end.
 
 `Multi-Agent` · `A2A` · `Tools`
 
 </td>
 <td valign="top" width="33%">
 
-Built with **LangChain4j** — conversational support with memory & RAG.
+Built with **LangChain4j**, conversational support with memory & RAG.
 
 `AI Services` · `Memory` · `RAG`
 
@@ -215,10 +215,10 @@ mastering-agentic-ai-with-java/
 │   └── openai-sdk/         # Working directly with the OpenAI SDK in Java
 │
 ├── 📁 Spring AI 27-06-2026/
-│   └── telusko-ai1/        # Spring AI — chat, tools (DateTime, News)
+│   └── telusko-ai1/        # Spring AI: chat, tools (DateTime, News)
 │
 ├── 📁 Spring AI 28-06-2026/
-│   └── telusko-ai1/        # Spring AI — tool calling (Weather, News)
+│   └── telusko-ai1/        # Spring AI: tool calling (Weather, News)
 │
 ├── 📁 Spring AI 04-07-2026/
 │   └── telusko-ai1/        # Chat memory, advisors, image gen, audio/TTS, tools
@@ -251,13 +251,13 @@ export OPENAI_API_KEY="your-api-key-here"
 ./mvnw spring-boot:run
 ```
 
-> 💡 Each project is self-contained with its own `pom.xml` — open the specific session folder in your IDE and run it independently.
+> 💡 Each project is self-contained with its own `pom.xml`. Open the specific session folder in your IDE and run it independently.
 
 ---
 
 ## 🏁 Final Outcome
 
-By the end of this course, you will be able to **design and deploy AI-powered Java applications end to end** — from a simple chatbot to a **fully autonomous multi-agent system** with memory, tools, real-time data, and production monitoring.
+By the end of this course, you will be able to **design and deploy AI-powered Java applications end to end**, from a simple chatbot to a **fully autonomous multi-agent system** with memory, tools, real-time data, and production monitoring.
 
 > 🎯 This is the practical **AI engineering skill set the industry is actively hiring for right now.**
 
