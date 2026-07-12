@@ -1,0 +1,134 @@
+Company: Telusko
+Title: "DevOps Masterclass with AWS, Docker & Kubernetes"
+Description: Complete DevOps program covering Linux, Git, Maven, Jenkins, Docker, Kubernetes, AWS, Terraform, Ansible, CI/CD pipelines, monitoring, and real-world deployment projects.
+Price: $199
+Category: DevOps
+Level: Beginner to Advanced
+Duration: 80+ Hours
+Features: Hands-on projects, AWS deployment, Docker, Kubernetes, Terraform, Jenkins, Interview preparation
+
+Company: Telusko
+Title: "AI Engineering with Java"
+Description: Learn Generative AI using Java, Spring AI, LangChain4j, Google ADK, MCP, RAG, Vector Databases, AI Agents, Tool Calling, Prompt Engineering, and production-ready AI applications.
+Price: $249
+Category: Artificial Intelligence
+Level: Intermediate
+Duration: 70+ Hours
+Features: Spring AI, LangChain4j, Google ADK, PGVector, Redis, ChromaDB, Multi-Agent Systems, AWS SageMaker
+
+Company: Telusko
+Title: "AI Engineering with Python"
+Description: Master AI engineering using Python, LangChain, LangGraph, OpenAI, Hugging Face, Vector Databases, AI Agents, Prompt Engineering, and RAG applications.
+Price: $229
+Category: Artificial Intelligence
+Level: Intermediate
+Duration: 75+ Hours
+Features: Python, LangChain, LangGraph, OpenAI, FastAPI, Pinecone, ChromaDB, AI Agents
+
+Company: Telusko
+Title: "Spring Boot Masterclass"
+Description: Learn Spring Boot from scratch including REST APIs, Spring Data JPA, Security, Microservices, Docker, Testing, Kafka, Redis, and deployment.
+Price: $149
+Category: Java Backend
+Level: Beginner to Advanced
+Duration: 65+ Hours
+Features: Spring Boot 3, Spring Security, JPA, Hibernate, Docker, Kafka, Redis, JWT
+
+Company: Telusko
+Title: "Java Full Stack Developer"
+Description: Become a full stack Java developer by learning Java, Spring Boot, React, SQL, REST APIs, Git, Docker, and deployment.
+Price: $219
+Category: Full Stack Development
+Level: Beginner to Advanced
+Duration: 100+ Hours
+Features: Core Java, Spring Boot, React, MySQL, REST APIs, Git, Docker, Projects
+
+Company: Telusko
+Title: "Core Java Programming"
+Description: Learn Java from fundamentals to advanced concepts including OOP, Collections, Multithreading, Streams, JDBC, Generics, and Design Patterns.
+Price: $99
+Category: Programming
+Level: Beginner
+Duration: 45+ Hours
+Features: Java 21, OOP, Collections, Streams, Multithreading, JDBC, Interview Questions
+
+Company: Telusko
+Title: "Data Structures & Algorithms in Java"
+Description: Build strong problem-solving skills by mastering arrays, linked lists, stacks, queues, trees, graphs, dynamic programming, and competitive programming.
+Price: $129
+Category: Programming
+Level: Beginner to Advanced
+Duration: 60+ Hours
+Features: 300+ Coding Problems, LeetCode Patterns, Interview Preparation, Competitive Programming
+
+Company: Telusko
+Title: "Microservices with Spring Boot"
+Description: Learn enterprise microservices architecture using Spring Boot, Spring Cloud, Eureka, API Gateway, Config Server, Kafka, Docker, and Kubernetes.
+Price: $189
+Category: Microservices
+Level: Intermediate
+Duration: 55+ Hours
+Features: Spring Cloud, Eureka, API Gateway, Kafka, Docker, Kubernetes, Distributed Systems
+
+Company: Telusko
+Title: "AWS Cloud for Developers"
+Description: Learn core AWS services including EC2, S3, IAM, RDS, VPC, Lambda, CloudWatch, ECS, EKS, and deployment strategies.
+Price: $159
+Category: Cloud Computing
+Level: Beginner to Intermediate
+Duration: 50+ Hours
+Features: EC2, S3, IAM, RDS, VPC, Lambda, CloudWatch, ECS, EKS
+
+Company: Telusko
+Title: "Docker & Kubernetes Bootcamp"
+Description: Learn containerization and orchestration using Docker, Docker Compose, Kubernetes, Helm, ConfigMaps, Secrets, Persistent Volumes, and Deployments.
+Price: $139
+Category: DevOps
+Level: Beginner to Intermediate
+Duration: 40+ Hours
+Features: Docker, Kubernetes, Helm, PVC, Services, Ingress, ConfigMaps, Secrets
+
+Company: Telusko
+Title: "Git & GitHub Complete Guide"
+Description: Learn version control using Git and GitHub including branching, merging, rebasing, pull requests, GitHub Actions, and collaboration workflows.
+Price: $69
+Category: DevOps
+Level: Beginner
+Duration: 18+ Hours
+Features: Git, GitHub, Branching, Merge, Rebase, GitHub Actions, CI/CD
+
+Company: Telusko
+Title: "SQL & Database Programming"
+Description: Learn SQL from basics to advanced topics including joins, indexing, normalization, transactions, stored procedures, and query optimization.
+Price: $89
+Category: Database
+Level: Beginner
+Duration: 30+ Hours
+Features: MySQL, PostgreSQL, Joins, Indexes, Transactions, Stored Procedures
+
+Company: Telusko
+Title: "System Design for Software Engineers"
+Description: Learn scalable system design including load balancing, caching, messaging systems, microservices, CAP theorem, distributed databases, and architecture patterns.
+Price: $179
+Category: Software Architecture
+Level: Advanced
+Duration: 42+ Hours
+Features: High-Level Design, Low-Level Design, Redis, Kafka, Load Balancer, Scalability
+
+Company: Telusko
+Title: "Linux for Developers & DevOps"
+Description: Learn Linux commands, shell scripting, permissions, processes, networking, system administration, and automation for DevOps engineers.
+Price: $79
+Category: Operating Systems
+Level: Beginner
+Duration: 28+ Hours
+Features: Linux Commands, Bash Scripting, Cron Jobs, Networking, Process Management
+
+Company: Telusko
+Title: "Maven & Gradle Build Tools"
+Description: Learn Java build automation using Maven and Gradle including dependency management, plugins, repositories, multi-module projects, and build lifecycle.
+Price: $59
+Category: Build Tools
+Level: Beginner
+Duration: 15+ Hours
+Features: Maven, Gradle, Dependency Management, Build Lifecycle, Multi-module Projects
